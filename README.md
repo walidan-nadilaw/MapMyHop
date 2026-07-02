@@ -1,4 +1,4 @@
-# ip-geomapping
+# Map-My-Hop
 
 Runs a traceroute to a host, geolocates each hop's public IP, prints a table, and optionally renders the route on an interactive map.
 
